@@ -1,0 +1,36 @@
+body
+{
+background-color:white;
+height: 100px;
+}
+
+
+nav
+{
+ background-color: blanchedalmond ;
+ display: inline-flex;
+ height: 1050px;
+ width: 200px;
+}
+
+
+nav li
+{
+   display: flex;
+}
+
+
+nav li a
+{
+   color:rgb(0, 0, 0);
+   text-decoration: none;
+   margin: 0;
+   padding: 10px;
+   font-size: 20px;
+}
+
+
+nav li a:hover
+{
+    background-color: rgba(70, 60, 60, 0.336);
+}
